@@ -1,0 +1,208 @@
+{
+  "employees": [
+    {
+      "name": "majed",
+      "jop": "maed",
+      "jopDescription": "asdsdmaksmd",
+      "salary": 1200,
+      "experience": 1,
+      "id": 1
+    },
+    {
+      "name": "qwe",
+      "jop": "qwe",
+      "jopDescription": "qwe",
+      "salary": 1,
+      "experience": 1,
+      "id": 2
+    }
+  ],
+  "cars": [
+    {
+      "url": "assets/img/mercides.png",
+      "id": 3,
+      "brand": "Mecedes",
+      "model": "C200",
+      "price": 300000,
+      "km": 0,
+      "year": 2019,
+      "engine": {
+        "fuel": "elictric",
+        "power": 900,
+        "consumption": 6
+      }
+    },
+    {
+      "id": 4,
+      "url": "assets/img/bmw.png",
+      "brand": "BMW",
+      "model": "S230 X6",
+      "price": 90000,
+      "km": 1200,
+      "year": 2018,
+      "engine": {
+        "fuel": "petrol",
+        "power": 35,
+        "consumption": 2
+      }
+    },
+    {
+      "url": "assets/img/skoda.png",
+      "brand": "Skoda",
+      "model": "FABIA",
+      "price": 100000,
+      "km": 80000,
+      "year": 2011,
+      "engine": {
+        "fuel": "diesel",
+        "power": 50,
+        "consumption": 5
+      },
+      "id": 6
+    },
+    {
+      "url": "assets/img/skoda.png",
+      "brand": "Skoda",
+      "model": "SCALA",
+      "price": 40000,
+      "km": 54000,
+      "year": 2008,
+      "engine": {
+        "fuel": "petrol",
+        "power": 60,
+        "consumption": 12
+      },
+      "id": 7
+    },
+    {
+      "url": "assets/img/audi.png",
+      "brand": "Audi",
+      "model": "Q5",
+      "price": 120000,
+      "km": 70000,
+      "year": 2014,
+      "engine": {
+        "fuel": "petrol",
+        "power": 90,
+        "consumption": 8
+      },
+      "id": 8
+    },
+    {
+      "url": "assets/img/audi.png",
+      "id": 9,
+      "brand": "Audi",
+      "model": "A5",
+      "price": 150000,
+      "km": 0,
+      "year": 2013,
+      "engine": {
+        "fuel": "diesel",
+        "power": 110,
+        "consumption": 9
+      }
+    },
+    {
+      "id": 10,
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "price": 180000,
+      "km": 30000,
+      "year": 2019,
+      "engine": {
+        "fuel": "elictric",
+        "power": 70,
+        "consumption": 12
+      }
+    },
+    {
+      "brand": "BMW",
+      "model": "X5",
+      "price": 800,
+      "km": 90,
+      "year": 2018,
+      "engine": {
+        "fuel": "petrol",
+        "power": 200,
+        "consumption": 8
+      },
+      "id": 11
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "BMW",
+      "number": "001"
+    },
+    {
+      "id": 2,
+      "name": "Audi",
+      "number": "423"
+    },
+    {
+      "name": "Mercedis",
+      "number": "421XX",
+      "id": 6
+    },
+    {
+      "name": "Skoda",
+      "number": "120",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Volkswagen",
+      "number": "70x"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "majed",
+      "username": "mjd.u",
+      "email": "email@gmail.com",
+      "password": "123",
+      "token": "mdri"
+    },
+    {
+      "fullname": "majed",
+      "usernmae": "majed2",
+      "id": 2
+    },
+    {
+      "fullname": "majed",
+      "usernmae": "majed2",
+      "id": 3
+    },
+    {
+      "fullname": "majed",
+      "usernmae": "majed2",
+      "id": 4
+    },
+    {
+      "fullname": "sami",
+      "usernmae": "sami2",
+      "id": 5
+    },
+    {
+      "fullname": "sami",
+      "usernmae": "sami2",
+      "id": 6
+    },
+    {
+      "fullname": "majed qatousa",
+      "username": "majed.u",
+      "email": "majed@gm",
+      "password": "majed123",
+      "id": 7
+    },
+    {
+      "fullname": "Ahmad",
+      "username": "ahmda",
+      "email": "ahamd@ahmad.com",
+      "password": "123ahmad12343",
+      "id": 8
+    }
+  ]
+}
